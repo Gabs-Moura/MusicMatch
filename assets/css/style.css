@@ -1,0 +1,30 @@
+html{
+    overflow: hidden;
+}
+
+#navbarExampleTransparentExample{
+    margin: 2rem;
+    
+}
+
+.navbar-start{
+    font: 1.3em sans-serif;
+}
+
+.button{
+    font: 1.3rem sans-serif;
+}
+
+.image{
+    position: relative;
+    width: 45rem;
+    top: -5.5rem;
+    left: 25rem;
+}
+    
+#botao_play{
+    position: relative;
+    top: -16rem;
+    left: 41.5rem;
+}
+
